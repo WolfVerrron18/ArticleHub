@@ -1,0 +1,15 @@
+:root {
+  --border-radius: 6px;
+  --color-alice-blue: #F0F8FF;
+  --border-color: #dcdfe6;
+  --color-base-white: #FFF;
+  --color-base-black: #181818;
+  --color-base-gray: #a3a3ab;
+  --color-base-red: #F08080;
+  --color-box-shadow: #dcdfe6;
+  --transition-base: all 0.2s cubic-bezier(1, 0.5, 0.8, 1);
+}
+
+body {
+  font-family: 'Work Sans', sans-serif;
+}
